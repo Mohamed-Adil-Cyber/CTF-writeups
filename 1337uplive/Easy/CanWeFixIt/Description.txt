@@ -1,0 +1,1 @@
+we have extracted this payload that a malware tried to dump, seems dumping it directly from memory crroupted it so it cant run. Can you fix it?
